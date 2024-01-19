@@ -21,7 +21,7 @@ The hypothesis of this project is that daily energy burn is related to the numbe
 
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python
 - Pandas
 - NumPy
 - Matplotlib
